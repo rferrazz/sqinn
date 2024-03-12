@@ -126,6 +126,11 @@ Changelog
 
 See version in src/util.h
 
+### v1.2.0
+
+- Fork of the original squinn that adds methods allowing implementing
+golang sql/driver API
+
 ### v1.1.30
 
 - SQLite Version 3.44.2 (2023-11-24)
